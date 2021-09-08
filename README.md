@@ -4,6 +4,7 @@ This repo contains our team`s code for Fareed Innovation &amp; Technology Event 
 ## HTML Designing Competition Team
 1. Arif Ullah Khan
 3. Talha Asghar
+4. Gulfam Khan
 
 
 ## Speed Programming Competition Team
