@@ -6,12 +6,12 @@ This repo contains our team`s code for Fareed Innovation &amp; Technology Event 
 3. Talha Asghar (myself)
 
 
-## Speed Programming
+## Speed Programming Competition Team
 1. Junaid Nawab
 2. Talha Asghar (myself)
 
 
-## Android App Development
+## Android App Development Competition Team
 1. Shahzaib Ali
 2. Junaid Nawab
 3. Talha Asghar (myself)
